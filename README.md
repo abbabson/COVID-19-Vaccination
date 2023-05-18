@@ -17,7 +17,7 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/abbabson/COVID-19-Vaccination-UK/blob/209cd42deaec81334a18ef4f59affb090356263a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: #
+[linkedin-url]: https://linkedin.com/in/abbabson
 
 
 <!-- PROJECT LOGO -->
@@ -157,7 +157,7 @@ The data resides in a Excel file with 4 sheets. The data I need resides in sheet
   
 ### Contact
 
-Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-edun) - webdeveloperbabson@gmail.com
+Abiodun Babatola - [connect on linkedin](https://www.linkedin.com/in/abbabson) - webdeveloperbabson@gmail.com
 
 Project Link: [Check out the dashboard](https://abbabson.my.canva.site/project-00k1)
 
